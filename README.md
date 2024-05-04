@@ -5,7 +5,7 @@
 <p>Momentální stav je jednoduchý. Jedná se o koženou bundu, do které jsem vložil ESP32 devkit, 2x 18650 článek do V8 modulu, a 5x tlačítko.</p>
 
 <h2>**Schéma zapojení:**</h2>
-![Pinout](https://github.com/SlavicEwok/Cyberjacket/assets/135712981/6399c305-c187-4d48-9cc0-8a68172d28c2)
+![Pinout](https://github.com/SlavicEwok/Cyberjacket/assets/135712981/6399c305-c187-4d48-9cc0-8a68172d28c2).
 
 <h3>Použité díly:</h3>
 <ul>
